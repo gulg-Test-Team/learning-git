@@ -1,1 +1,2 @@
 Hello my good friend.
+another conflict line
